@@ -6,12 +6,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.bridgearchive.bridgedata.Bidding;
-import com.bridgearchive.bridgedata.Board;
-import com.bridgearchive.bridgedata.Call;
-import com.bridgearchive.bridgedata.Card;
-import com.bridgearchive.bridgedata.Deal;
-import com.bridgearchive.bridgedata.Play;
+import com.bridgearchive.model.Bidding;
+import com.bridgearchive.model.Board;
+import com.bridgearchive.model.Call;
+import com.bridgearchive.model.Card;
+import com.bridgearchive.model.Deal;
+import com.bridgearchive.model.Play;
 import com.bridgearchive.parser.lin.exception.ParseException;
 import com.bridgearchive.parser.lin.tag.MbTag;
 import com.bridgearchive.parser.lin.tag.McTag;

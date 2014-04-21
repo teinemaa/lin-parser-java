@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-import com.bridgearchive.bridgedata.Deal;
+import com.bridgearchive.model.Deal;
 import com.bridgearchive.parser.lin.exception.ParseException;
 import com.bridgearchive.parser.lin.tag.Tag;
 

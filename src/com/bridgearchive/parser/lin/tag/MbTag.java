@@ -1,8 +1,8 @@
 package com.bridgearchive.parser.lin.tag;
 
-import com.bridgearchive.bridgedata.Call;
-import com.bridgearchive.bridgedata.Stake;
-import com.bridgearchive.bridgedata.Strain;
+import com.bridgearchive.model.Call;
+import com.bridgearchive.model.Stake;
+import com.bridgearchive.model.Strain;
 import com.bridgearchive.parser.lin.exception.ParseException;
 
 public class MbTag extends Tag {

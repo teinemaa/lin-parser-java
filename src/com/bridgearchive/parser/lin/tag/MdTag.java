@@ -5,10 +5,10 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import com.bridgearchive.bridgedata.Card;
-import com.bridgearchive.bridgedata.Position;
-import com.bridgearchive.bridgedata.Rank;
-import com.bridgearchive.bridgedata.Suit;
+import com.bridgearchive.model.Card;
+import com.bridgearchive.model.Position;
+import com.bridgearchive.model.Rank;
+import com.bridgearchive.model.Suit;
 import com.bridgearchive.parser.lin.exception.ParseException;
 
 public class MdTag extends Tag {
